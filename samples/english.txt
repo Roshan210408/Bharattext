@@ -1,0 +1,5 @@
+India is a land of many languages. The Constitution recognises twenty-two scheduled languages, and hundreds more are spoken across the country.
+
+Language shapes how people learn, work and share stories. A text analyzer that understands Indian scripts can help students, teachers and researchers study this diversity.
+
+Python makes text analysis simple. With a few libraries, we can count words, find frequent terms and compare documents in many languages.
