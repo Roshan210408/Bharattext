@@ -1,5 +1,9 @@
 # 🇮🇳 BharatText — Indian Language Text Analyzer
 
+🔗 **Live demo: [bharattext.streamlit.app](https://bharattext.streamlit.app/)**
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://bharattext.streamlit.app/)
+
 Analyze text in English, Hindi, Tamil, Malayalam and other Indian scripts: word,
 sentence and paragraph counts, word frequency, word pairs, script detection,
 document comparison and CSV export — through a Streamlit web app or the command line.
@@ -17,6 +21,10 @@ document comparison and CSV export — through a Streamlit web app or the comman
 - **CSV export** in UTF-8 with BOM, so Excel shows Indian scripts correctly
 
 ## Quick start
+
+**Try it online:** https://bharattext.streamlit.app/ (no installation needed)
+
+**Or run it locally:**
 
 ```bash
 pip install -r requirements.txt
